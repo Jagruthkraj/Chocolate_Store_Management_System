@@ -19,7 +19,7 @@ The API uses Flask as the web framework, Flask-SQLAlchemy (an Object-Relational 
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/JagruthRaj/Chocolate_Store_Management_System.git
+- git clone https://github.com/Jagruthkraj/Chocolate_Store_Management_System.git
 - cd ChocolateHouse
 
 ## Install Dependencies
